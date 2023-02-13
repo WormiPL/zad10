@@ -1,0 +1,47 @@
+html, body{
+    font-family: Tahoma;
+}
+.left{
+    background-color: rosybrown;
+    color: white;
+    height: 200px;
+    width: 30%;
+    float: left;
+}
+
+.right{
+    background-color: rosybrown;
+    color: white;
+    height: 200px;
+    width: 30%;
+    float: right;
+}
+.mid{
+    background-color: rosybrown;
+    color: white;
+    text-align: center;
+    width: 40%;
+    height: 200px;
+    float: right;
+}
+.main{
+   background-color: wheat;
+   padding: 50px;
+}
+.footer{
+    background-color: rosybrown;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+a{
+text-align: center;
+ border-style: solid;
+ border-width: 2px;
+ background-color: salmon;
+ color: darkred;
+ padding: 20px;
+ border-color: darkred;
+ text-decoration: none;
+line-height: 200px;
+}
